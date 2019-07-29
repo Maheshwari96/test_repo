@@ -2,6 +2,6 @@
 
 ##Branching types
 
-1. Master Branch - changes done in dev can't be automatically made in master
+1. Master Branch - changes done in dev can't be automatically made in master(chnging in git).
 
 2. Dev Branch - chnging in localmchne
